@@ -1,0 +1,19 @@
+2024-11-13 14:36:34,151 - INFO - starting test case : TB005
+2024-11-13 14:36:34,152 - INFO - HERE IS YOUR BOOKED TICKET DETAILS of TB005:
+Source: Srikakulam
+Destination: Hyderabad
+Date: 2024-12-06
+Name: Jyothsna
+Age: 50
+Phone Number: 7780783563
+
+2024-11-13 14:36:34,152 - INFO - Raw Expected Output from excel for Test Case ID TB005:
+Source: Srikakulam
+Destination: Hyderabad
+Date: 2024-12-06
+Name: Jyothsna
+Age: 50
+Phone Number: 7780783563
+
+2024-11-13 14:36:34,152 - INFO - Test Case ID TB005 PASSED: The booking details match.
+

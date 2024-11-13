@@ -1,0 +1,18 @@
+2024-11-13 14:36:34,093 - INFO - starting test case : TB003
+2024-11-13 14:36:34,094 - INFO - HERE IS YOUR BOOKED TICKET DETAILS of TB003:
+Source: Amalapuram
+Destination: nan
+Date: 2024-12-04
+Name: Weslee
+Age: 19
+Phone Number: 7511194328
+
+2024-11-13 14:36:34,094 - INFO - Raw Expected Output from excel for Test Case ID TB003:
+Source: Amalapuram
+Destination: Tirupathi
+Date: 2024-12-04
+Name: Weslee
+Age: 19
+Phone Number: 7511194328
+
+2024-11-13 14:36:34,094 - ERROR - Test Case ID TB003 FAILED: The booking details do not match.

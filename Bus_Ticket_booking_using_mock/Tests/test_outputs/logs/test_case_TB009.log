@@ -1,0 +1,18 @@
+2024-11-13 14:36:34,163 - INFO - starting test case : TB009
+2024-11-13 14:36:34,164 - INFO - HERE IS YOUR BOOKED TICKET DETAILS of TB009:
+Source: Rajamahendravaram
+Destination: Srikakulam
+Date: 2024-12-10
+Name: sri
+Age: 24
+Phone Number: 8859643211
+
+2024-11-13 14:36:34,164 - INFO - Raw Expected Output from excel for Test Case ID TB009:
+Source: Rajamahendravaram
+Destination: Srikakulam
+Date: 2024-12-10
+Name: Suresh
+Age: 24
+Phone Number: 8859643211
+
+2024-11-13 14:36:34,165 - ERROR - Test Case ID TB009 FAILED: The booking details do not match.
