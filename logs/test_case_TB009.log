@@ -1,0 +1,18 @@
+2024-11-13 13:28:53,633 - INFO - Running test for Test ID: TB009
+2024-11-13 13:28:55,047 - DEBUG - Booking details for Test ID TB009: {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Name': '2024-12-10', 'Date': 'Suresh', 'Age': '24', 'Phone Number': '8859643211'}
+2024-11-13 13:28:55,051 - DEBUG - Expected output for Test ID TB009: {'Source': 'Gudivada', 'Destination': 'Vishakapatman', 'Name': '2024-12-11', 'Date': 'Ramcharan', 'Age': '39', 'Phone Number': '7998462331'}
+2024-11-13 13:28:55,051 - INFO - Comparison result for Test ID TB009: NOT OK
+2024-11-13 13:28:55,053 - ERROR - Error occurred while processing Test ID TB009: Test failed for Test ID TB009. Expected 'OK' but got NOT OK
+assert 'NOT OK' == 'OK'
+  
+  - OK
+  + NOT OK
+2024-11-13 13:31:26,987 - INFO - Running test for Test ID: TB009
+2024-11-13 13:31:28,360 - DEBUG - Booking details for Test ID TB009: {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Name': '2024-12-10', 'Date': 'Suresh', 'Age': '24', 'Phone Number': '8859643211'}
+2024-11-13 13:31:28,364 - DEBUG - Expected output for Test ID TB009: {'Source': 'Gudivada', 'Destination': 'Vishakapatman', 'Name': '2024-12-11', 'Date': 'Ramcharan', 'Age': '39', 'Phone Number': '7998462331'}
+2024-11-13 13:31:28,364 - INFO - Comparison result for Test ID TB009: NOT OK
+2024-11-13 13:31:28,366 - ERROR - Error occurred while processing Test ID TB009: Test failed for Test ID TB009. Expected 'OK' but got NOT OK
+assert 'NOT OK' == 'OK'
+  
+  - OK
+  + NOT OK

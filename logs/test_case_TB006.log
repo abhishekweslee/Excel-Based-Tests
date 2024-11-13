@@ -1,0 +1,8 @@
+2024-11-13 13:28:49,451 - INFO - Running test for Test ID: TB006
+2024-11-13 13:28:50,825 - DEBUG - Booking details for Test ID TB006: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Name': '2024-12-07', 'Date': 'Varalaxmi', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-13 13:28:50,828 - DEBUG - Expected output for Test ID TB006: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Name': '2024-12-07', 'Date': 'Varalaxmi', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-13 13:28:50,828 - INFO - Comparison result for Test ID TB006: OK
+2024-11-13 13:31:22,785 - INFO - Running test for Test ID: TB006
+2024-11-13 13:31:24,157 - DEBUG - Booking details for Test ID TB006: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Name': '2024-12-07', 'Date': 'Varalaxmi', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-13 13:31:24,160 - DEBUG - Expected output for Test ID TB006: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Name': '2024-12-07', 'Date': 'Varalaxmi', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-13 13:31:24,161 - INFO - Comparison result for Test ID TB006: OK
