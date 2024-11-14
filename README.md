@@ -2,7 +2,7 @@ Requirments: PANDAS, OPENPYXL, LOGGER, SUBPROCESS, TIME
 
 Install the above requirements using pip
 
-The ExcelDoc.xlsx contains the test data with 10 differenet combinations
+The ExcelDoc.xlsx contains the test data with 10 different combinations
 
 The booking development code is with the name dev_bus_ticket.py
 
