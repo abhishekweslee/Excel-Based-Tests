@@ -1,10 +1,15 @@
+import sys
+import os
+
+# Add the project root directory to the Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
+
 from Framework.CLI_Automation import CLTAuto
 import pytest
+from Core.dev.Common_opts import Paths
 
 
 def test_case01():
-    # command = ["python", "-m", "Core.dev.dev_bus_ticket"]
-    # excel_path = r"E:\Qemu\bus_book_subprocess\Tests\test_inputs\Ticket_booking.xlsx"
 
     cli = CLTAuto()
 
@@ -36,7 +41,9 @@ def test_case01():
     cli.enter_data(inputs)
 
     excel_output = cli.extract_expected_output(test_ids[0])
-    ticket_file_output = cli.ticket_file_data(f"/home/vlab/ExcelAuto/bus_book_subprocess/Tests/test_outputs/tickets/user_generated_tickets/{test_ids[0]}.txt")
+    ticket_file_output = cli.ticket_file_data(Paths.ticket_dir+f"/{test_ids[0]}.txt")
     Output = cli.compare(ticket_file_output, excel_output)
     cli.close_process()
     assert "OK" if "not" not in Output else "NOT OK"
+
+# test_case01()
