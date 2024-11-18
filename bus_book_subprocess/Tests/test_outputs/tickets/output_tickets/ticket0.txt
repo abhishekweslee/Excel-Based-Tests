@@ -1,6 +1,0 @@
-Source: Hyderabad
-Destination: Kakinada
-Date: 2024-11-18 12:04:08.558821
-Name: default-ram
-Age: 20
-Phone Number: default-1234567890

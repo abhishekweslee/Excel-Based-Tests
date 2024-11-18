@@ -1,6 +1,0 @@
-Source: default-Hyderabad
-Destination: default-Pithapuram
-Date: 2024-11-18 10:44:05.671853
-Name: default-ram
-Age: 20
-Phone Number: default-1234567890
