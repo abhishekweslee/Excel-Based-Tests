@@ -1,13 +1,11 @@
-Requirments: PANDAS, OPENPYXL, LOGGER, SUBPROCESS, TIME
+run requirements.txt to get all requirements
 
-Install the above requirements using pip
+test_param.py the main test script to run all the test ids from excel
 
-The ExcelDoc.xlsx contains the test data with 10 different combinations
+CLI_Automation is the framework 
 
-The booking development code is with the name dev_bus_ticket.py
+dev_bus_ticket is the cli tool 
 
-The main test suite is test_script.py
+to run the script
 
-The main test logic is core.py
-
-The config file is config.json
+pytest -s Tests/test_script/test_param.py
