@@ -6,6 +6,6 @@ CLI_Automation is the framework
 
 dev_bus_ticket is the cli tool 
 
-to run the script
+**to run the script** :
 
 pytest -s Tests/test_script/test_param.py
