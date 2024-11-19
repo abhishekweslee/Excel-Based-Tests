@@ -34,7 +34,7 @@ def test_case01():
         "1", int(test_data['Age']) if test_data['Age'] != '' else '',  # Enter age
         "2", int(test_data['Phone_Number']) if test_data['Phone_Number'] != '' else '',  # Enter phone number
         "3",
-        "4", test_ids[1],  # Enter test ID
+        "4", test_ids[9],  # Enter test ID
         "7"  # Quit
     ]
 
