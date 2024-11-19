@@ -1,0 +1,6 @@
+Source: Pithapuram
+Destination: Gudivada
+Date: 2024-12-05 00:00:00
+Name: Lochani
+Age: 23
+Phone Number: 8341130695

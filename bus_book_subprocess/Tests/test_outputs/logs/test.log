@@ -1,0 +1,80 @@
+2024-11-19 14:18:41,295 - INFO - Starting test with test_id : TB001
+2024-11-19 14:18:41,297 - INFO - Test Data: {'Source': 'Hyderabad', 'Destination': 'Kakinada', 'Date': '2024-12-02', 'Name': 'Abhishek', 'Age': 20, 'Phone_Number': 7855496341}
+2024-11-19 14:18:41,300 - INFO - Sending inputs: ['1', 'Hyderabad', '2', 'Kakinada', '3', '6', '1', '2024-12-02', '2', 'Abhishek', '3', '6', '1', 20, '2', 7855496341, '3', '4', 'TB001', '7']
+2024-11-19 14:19:02,331 - INFO - Expected output from excel : {'Source': 'Hyderabad', 'Destination': 'Kakinada', 'Name': 'Abhishek', 'Date': '2024-12-02', 'Age': '20', 'Phone Number': '7855496341'}
+2024-11-19 14:19:02,331 - INFO - Ticket File Output: {'Source': 'Hyderabad', 'Destination': 'Kakinada', 'Date': '2024-12-02', 'Name': 'Abhishek', 'Age': '20', 'Phone Number': '7855496341'}
+2024-11-19 14:19:02,331 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:19:02,334 - INFO - Starting test with test_id : TB002
+2024-11-19 14:19:02,335 - INFO - Test Data: {'Source': 'Kakinada', 'Destination': 'Pithapuram', 'Date': '2024-12-03', 'Name': 'John', 'Age': 21, 'Phone_Number': 9856743588}
+2024-11-19 14:19:02,339 - INFO - Sending inputs: ['1', 'Kakinada', '2', 'Pithapuram', '3', '6', '1', '2024-12-03', '2', 'John', '3', '6', '1', 21, '2', 9856743588, '3', '4', 'TB002', '7']
+2024-11-19 14:19:23,369 - INFO - Expected output from excel : {'Source': 'Kakinada', 'Destination': 'Pithapuram', 'Name': 'John', 'Date': '2024-12-03', 'Age': '21', 'Phone Number': '9856743588'}
+2024-11-19 14:19:23,369 - INFO - Ticket File Output: {'Source': 'Kakinada', 'Destination': 'Pithapuram', 'Date': '2024-12-03', 'Name': 'John', 'Age': '21', 'Phone Number': '9856743588'}
+2024-11-19 14:19:23,369 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:19:23,372 - INFO - Starting test with test_id : TB003
+2024-11-19 14:19:23,373 - INFO - Test Data: {'Source': 'Amalapuram', 'Destination': 'Tirupathi', 'Date': '2024-12-04', 'Name': 'Weslee', 'Age': 19, 'Phone_Number': 7511194328}
+2024-11-19 14:19:23,377 - INFO - Sending inputs: ['1', 'Amalapuram', '2', 'Tirupathi', '3', '6', '1', '2024-12-04', '2', 'Weslee', '3', '6', '1', 19, '2', 7511194328, '3', '4', 'TB003', '7']
+2024-11-19 14:19:44,409 - INFO - Expected output from excel : {'Source': 'Amalapuram', 'Destination': 'Tirupathi', 'Name': 'Weslee', 'Date': '2024-12-04', 'Age': '19', 'Phone Number': '7511194328'}
+2024-11-19 14:19:44,410 - INFO - Ticket File Output: {'Source': 'Amalapuram', 'Destination': 'Tirupathi', 'Date': '2024-12-04', 'Name': 'Weslee', 'Age': '19', 'Phone Number': '7511194328'}
+2024-11-19 14:19:44,410 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:19:44,418 - INFO - Starting test with test_id : TB004
+2024-11-19 14:19:44,422 - INFO - Test Data: {'Source': 'Pithapuram', 'Destination': 'Gudivada', 'Date': '2024-12-05', 'Name': 'Lochani', 'Age': 23, 'Phone_Number': 8341130695}
+2024-11-19 14:19:44,431 - INFO - Sending inputs: ['1', 'Pithapuram', '2', 'Gudivada', '3', '6', '1', '2024-12-05', '2', 'Lochani', '3', '6', '1', 23, '2', 8341130695, '3', '4', 'TB004', '7']
+2024-11-19 14:20:05,462 - INFO - Expected output from excel : {'Source': 'Pithapuram', 'Destination': 'Gudivada', 'Name': 'Lochani', 'Date': '2024-12-05', 'Age': '23', 'Phone Number': '8341130695'}
+2024-11-19 14:20:05,462 - INFO - Ticket File Output: {'Source': 'Pithapuram', 'Destination': 'Gudivada', 'Date': '2024-12-05', 'Name': 'Lochani', 'Age': '23', 'Phone Number': '8341130695'}
+2024-11-19 14:20:05,462 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:20:05,465 - INFO - Starting test with test_id : TB005
+2024-11-19 14:20:05,466 - INFO - Test Data: {'Source': 'Srikakulam', 'Destination': 'Hyderabad', 'Date': '2024-12-06', 'Name': 'Jyothsna', 'Age': 50, 'Phone_Number': 7780783563}
+2024-11-19 14:20:05,472 - INFO - Sending inputs: ['1', 'Srikakulam', '2', 'Hyderabad', '3', '6', '1', '2024-12-06', '2', 'Jyothsna', '3', '6', '1', 50, '2', 7780783563, '3', '4', 'TB005', '7']
+2024-11-19 14:20:26,502 - INFO - Expected output from excel : {'Source': 'Srikakulam', 'Destination': 'Hyderabad', 'Name': 'Jyothsna', 'Date': '2024-12-06', 'Age': '50', 'Phone Number': '7780783563'}
+2024-11-19 14:20:26,503 - INFO - Ticket File Output: {'Source': 'Srikakulam', 'Destination': 'Hyderabad', 'Date': '2024-12-06', 'Name': 'Jyothsna', 'Age': '50', 'Phone Number': '7780783563'}
+2024-11-19 14:20:26,503 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:20:26,505 - INFO - Starting test with test_id : TB006
+2024-11-19 14:20:26,507 - INFO - Test Data: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Date': '2024-12-07', 'Name': 'Varalaxmi', 'Age': 35, 'Phone_Number': 9502700963}
+2024-11-19 14:20:26,510 - INFO - Sending inputs: ['1', 'Vishakapatman', '2', 'Yanam', '3', '6', '1', '2024-12-07', '2', 'Varalaxmi', '3', '6', '1', 35, '2', 9502700963, '3', '4', 'TB006', '7']
+2024-11-19 14:20:47,541 - INFO - Expected output from excel : {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Name': 'Varalaxmi', 'Date': '2024-12-07', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-19 14:20:47,542 - INFO - Ticket File Output: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Date': '2024-12-07', 'Name': 'Varalaxmi', 'Age': '35', 'Phone Number': '9502700963'}
+2024-11-19 14:20:47,543 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:20:47,551 - INFO - Starting test with test_id : TB007
+2024-11-19 14:20:47,555 - INFO - Test Data: {'Source': '', 'Destination': 'Rajamahendravaram', 'Date': '2024-12-08', 'Name': 'Anudeep', 'Age': 40, 'Phone_Number': 9794471619}
+2024-11-19 14:20:47,565 - INFO - Sending inputs: ['1', '', '2', 'Rajamahendravaram', '3', '6', '1', '2024-12-08', '2', 'Anudeep', '3', '6', '1', 40, '2', 9794471619, '3', '4', 'TB007', '7']
+2024-11-19 14:21:08,595 - INFO - Expected output from excel : {'Source': 'Tirupathi', 'Destination': 'Rajamahendravaram', 'Name': 'Anudeep', 'Date': '2024-12-08', 'Age': '40', 'Phone Number': '9794471619'}
+2024-11-19 14:21:08,596 - INFO - Ticket File Output: {'Source': 'default-Hyderabad', 'Destination': 'Rajamahendravaram', 'Date': '2024-12-08', 'Name': 'Anudeep', 'Age': '40', 'Phone Number': '9794471619'}
+2024-11-19 14:21:08,597 - INFO - Comparison Output: NOT OK
+
+
+2024-11-19 14:21:08,739 - INFO - Starting test with test_id : TB008
+2024-11-19 14:21:08,741 - INFO - Test Data: {'Source': 'Yanam', 'Destination': 'Amalapuram', 'Date': '2024-12-09', 'Name': 'Veenanjali', 'Age': 23, 'Phone_Number': 8328670985}
+2024-11-19 14:21:08,749 - INFO - Sending inputs: ['1', 'Yanam', '2', 'Amalapuram', '3', '6', '1', '2024-12-09', '2', 'Veenanjali', '3', '6', '1', 23, '2', 8328670985, '3', '4', 'TB008', '7']
+2024-11-19 14:21:29,781 - INFO - Expected output from excel : {'Source': 'Yanam', 'Destination': 'Amalapuram', 'Name': 'Veenanjali', 'Date': '2024-12-09', 'Age': '23', 'Phone Number': '8328670985'}
+2024-11-19 14:21:29,781 - INFO - Ticket File Output: {'Source': 'Yanam', 'Destination': 'Amalapuram', 'Date': '2024-12-09', 'Name': 'Veenanjali', 'Age': '23', 'Phone Number': '8328670985'}
+2024-11-19 14:21:29,782 - INFO - Comparison Output: OK
+
+
+2024-11-19 14:21:29,784 - INFO - Starting test with test_id : TB009
+2024-11-19 14:21:29,785 - INFO - Test Data: {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Date': '2024-12-10', 'Name': '', 'Age': 24, 'Phone_Number': 8859643211}
+2024-11-19 14:21:29,789 - INFO - Sending inputs: ['1', 'Rajamahendravaram', '2', 'Srikakulam', '3', '6', '1', '2024-12-10', '2', '', '3', '6', '1', 24, '2', 8859643211, '3', '4', 'TB009', '7']
+2024-11-19 14:21:50,818 - INFO - Expected output from excel : {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Name': 'Suresh', 'Date': '2024-12-10', 'Age': '24', 'Phone Number': '8859643211'}
+2024-11-19 14:21:50,819 - INFO - Ticket File Output: {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Date': '2024-12-10', 'Name': 'default-ram', 'Age': '24', 'Phone Number': '8859643211'}
+2024-11-19 14:21:50,819 - INFO - Comparison Output: NOT OK
+
+
+2024-11-19 14:21:50,825 - INFO - Starting test with test_id : TB010
+2024-11-19 14:21:50,826 - INFO - Test Data: {'Source': '', 'Destination': '', 'Date': '', 'Name': '', 'Age': '', 'Phone_Number': ''}
+2024-11-19 14:21:50,830 - INFO - Sending inputs: ['1', '', '2', '', '3', '6', '1', '', '2', '', '3', '6', '1', '', '2', '', '3', '4', 'TB010', '7']
+2024-11-19 14:22:11,859 - INFO - Expected output from excel : {'Source': 'default-Hyderabad', 'Destination': 'default-Pithapuram', 'Name': 'default-ram', 'Date': '2024-11-19', 'Age': '20'}
+2024-11-19 14:22:11,862 - INFO - Ticket File Output: {'Source': 'default-Hyderabad', 'Destination': 'default-Pithapuram', 'Date': '2024-11-19', 'Name': 'default-ram', 'Age': '20', 'Phone Number': 'default-1234567890'}
+2024-11-19 14:22:11,862 - INFO - Comparison Output: OK
+
+
