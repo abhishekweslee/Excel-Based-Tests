@@ -1,0 +1,1862 @@
+2024-11-20 11:26:15,680 - INFO - Starting test with test_id : TB003
+2024-11-20 11:26:15,682 - INFO - Test Data: {'Source': 'Amalapuram', 'Destination': 'Tirupathi', 'Date': '2024-12-04', 'Name': 'Weslee', 'Age': 19, 'Phone_Number': 7511194328}
+2024-11-20 11:26:17,692 - INFO - Entered input: 1
+2024-11-20 11:26:17,693 - INFO - Output for the input 1 is:
+2024-11-20 11:26:17,693 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:26:19,696 - INFO - Entered input: Amalapuram
+2024-11-20 11:26:19,697 - INFO - Output for the input Amalapuram is:
+2024-11-20 11:26:19,697 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:26:21,700 - INFO - Entered input: 2
+2024-11-20 11:26:21,701 - INFO - Output for the input 2 is:
+2024-11-20 11:26:21,701 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:26:23,704 - INFO - Entered input: Tirupathi
+2024-11-20 11:26:23,705 - INFO - Output for the input Tirupathi is:
+2024-11-20 11:26:23,705 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:26:25,708 - INFO - Entered input: 3
+2024-11-20 11:26:25,709 - INFO - Output for the input 3 is:
+2024-11-20 11:26:25,709 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Amalapuram
+Destination: Tirupathi
+Date: 2024-11-20 11:26:15.726431
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket42.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:26:27,712 - INFO - Entered input: 6
+2024-11-20 11:26:27,713 - INFO - Output for the input 6 is:
+2024-11-20 11:26:27,713 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:26:29,716 - INFO - Entered input: 1
+2024-11-20 11:26:29,716 - INFO - Output for the input 1 is:
+2024-11-20 11:26:29,717 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:26:31,720 - INFO - Entered input: 2024-12-04
+2024-11-20 11:26:31,720 - INFO - Output for the input 2024-12-04 is:
+2024-11-20 11:26:31,721 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:26:33,724 - INFO - Entered input: 2
+2024-11-20 11:26:33,724 - INFO - Output for the input 2 is:
+2024-11-20 11:26:33,725 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:26:35,728 - INFO - Entered input: Weslee
+2024-11-20 11:26:35,728 - INFO - Output for the input Weslee is:
+2024-11-20 11:26:35,729 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:26:37,732 - INFO - Entered input: 3
+2024-11-20 11:26:37,732 - INFO - Output for the input 3 is:
+2024-11-20 11:26:37,733 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Amalapuram
+Destination: Tirupathi
+Date: 2024-12-04 00:00:00
+Name: Weslee
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket43.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:26:39,736 - INFO - Entered input: 6
+2024-11-20 11:26:39,736 - INFO - Output for the input 6 is:
+2024-11-20 11:26:39,737 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:26:41,740 - INFO - Entered input: 1
+2024-11-20 11:26:41,740 - INFO - Output for the input 1 is:
+2024-11-20 11:26:41,741 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:26:43,744 - INFO - Entered input: 19
+2024-11-20 11:26:43,744 - INFO - Output for the input 19 is:
+2024-11-20 11:26:43,745 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:26:45,748 - INFO - Entered input: 2
+2024-11-20 11:26:45,748 - INFO - Output for the input 2 is:
+2024-11-20 11:26:45,749 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:26:47,752 - INFO - Entered input: 7511194328
+2024-11-20 11:26:47,752 - INFO - Output for the input 7511194328 is:
+2024-11-20 11:26:47,753 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:26:49,756 - INFO - Entered input: 3
+2024-11-20 11:26:49,756 - INFO - Output for the input 3 is:
+2024-11-20 11:26:49,757 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Amalapuram
+Destination: Tirupathi
+Date: 2024-12-04 00:00:00
+Name: Weslee
+Age: 19
+Phone No: 7511194328
+
+Ticket details saved as ticket44.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:26:51,760 - INFO - Entered input: 4
+2024-11-20 11:26:51,760 - INFO - Output for the input 4 is:
+2024-11-20 11:26:51,760 - INFO - 
+2024-11-20 11:26:53,764 - INFO - Entered input: TB003
+2024-11-20 11:26:53,764 - INFO - Output for the input TB003 is:
+2024-11-20 11:26:53,764 - INFO - Details saved in TB003.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:26:55,768 - INFO - Entered input: 7
+2024-11-20 11:26:55,768 - INFO - Output for the input 7 is:
+2024-11-20 11:26:55,768 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:26:55,777 - INFO - Starting test with test_id : TB004
+2024-11-20 11:26:55,780 - INFO - Test Data: {'Source': 'Pithapuram', 'Destination': 'Gudivada', 'Date': '2024-12-05', 'Name': 'Lochani', 'Age': 23, 'Phone_Number': 8341130695}
+2024-11-20 11:26:57,790 - INFO - Entered input: 1
+2024-11-20 11:26:57,791 - INFO - Output for the input 1 is:
+2024-11-20 11:26:57,792 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:26:59,795 - INFO - Entered input: Pithapuram
+2024-11-20 11:26:59,795 - INFO - Output for the input Pithapuram is:
+2024-11-20 11:26:59,796 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:01,799 - INFO - Entered input: 2
+2024-11-20 11:27:01,800 - INFO - Output for the input 2 is:
+2024-11-20 11:27:01,800 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:27:03,803 - INFO - Entered input: Gudivada
+2024-11-20 11:27:03,804 - INFO - Output for the input Gudivada is:
+2024-11-20 11:27:03,804 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:05,807 - INFO - Entered input: 3
+2024-11-20 11:27:05,808 - INFO - Output for the input 3 is:
+2024-11-20 11:27:05,808 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Pithapuram
+Destination: Gudivada
+Date: 2024-11-20 11:26:55.825579
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket45.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:07,811 - INFO - Entered input: 6
+2024-11-20 11:27:07,812 - INFO - Output for the input 6 is:
+2024-11-20 11:27:07,813 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:09,816 - INFO - Entered input: 1
+2024-11-20 11:27:09,817 - INFO - Output for the input 1 is:
+2024-11-20 11:27:09,817 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:27:11,820 - INFO - Entered input: 2024-12-05
+2024-11-20 11:27:11,821 - INFO - Output for the input 2024-12-05 is:
+2024-11-20 11:27:11,821 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:13,824 - INFO - Entered input: 2
+2024-11-20 11:27:13,825 - INFO - Output for the input 2 is:
+2024-11-20 11:27:13,825 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:27:15,828 - INFO - Entered input: Lochani
+2024-11-20 11:27:15,829 - INFO - Output for the input Lochani is:
+2024-11-20 11:27:15,829 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:17,832 - INFO - Entered input: 3
+2024-11-20 11:27:17,833 - INFO - Output for the input 3 is:
+2024-11-20 11:27:17,833 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Pithapuram
+Destination: Gudivada
+Date: 2024-12-05 00:00:00
+Name: Lochani
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket46.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:19,837 - INFO - Entered input: 6
+2024-11-20 11:27:19,837 - INFO - Output for the input 6 is:
+2024-11-20 11:27:19,837 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:27:21,841 - INFO - Entered input: 1
+2024-11-20 11:27:21,841 - INFO - Output for the input 1 is:
+2024-11-20 11:27:21,841 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:27:23,844 - INFO - Entered input: 23
+2024-11-20 11:27:23,845 - INFO - Output for the input 23 is:
+2024-11-20 11:27:23,845 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:27:25,848 - INFO - Entered input: 2
+2024-11-20 11:27:25,849 - INFO - Output for the input 2 is:
+2024-11-20 11:27:25,849 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:27:27,852 - INFO - Entered input: 8341130695
+2024-11-20 11:27:27,853 - INFO - Output for the input 8341130695 is:
+2024-11-20 11:27:27,853 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:27:29,856 - INFO - Entered input: 3
+2024-11-20 11:27:29,857 - INFO - Output for the input 3 is:
+2024-11-20 11:27:29,857 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Pithapuram
+Destination: Gudivada
+Date: 2024-12-05 00:00:00
+Name: Lochani
+Age: 23
+Phone No: 8341130695
+
+Ticket details saved as ticket47.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:27:31,860 - INFO - Entered input: 4
+2024-11-20 11:27:31,860 - INFO - Output for the input 4 is:
+2024-11-20 11:27:31,861 - INFO - 
+2024-11-20 11:27:33,864 - INFO - Entered input: TB004
+2024-11-20 11:27:33,865 - INFO - Output for the input TB004 is:
+2024-11-20 11:27:33,865 - INFO - Details saved in TB004.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:27:35,868 - INFO - Entered input: 7
+2024-11-20 11:27:35,869 - INFO - Output for the input 7 is:
+2024-11-20 11:27:35,869 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:27:35,878 - INFO - Starting test with test_id : TB005
+2024-11-20 11:27:35,881 - INFO - Test Data: {'Source': 'Srikakulam', 'Destination': 'Hyderabad', 'Date': '2024-12-06', 'Name': 'Jyothsna', 'Age': 50, 'Phone_Number': 7780783563}
+2024-11-20 11:27:37,892 - INFO - Entered input: 1
+2024-11-20 11:27:37,893 - INFO - Output for the input 1 is:
+2024-11-20 11:27:37,894 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:27:39,897 - INFO - Entered input: Srikakulam
+2024-11-20 11:27:39,898 - INFO - Output for the input Srikakulam is:
+2024-11-20 11:27:39,898 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:41,901 - INFO - Entered input: 2
+2024-11-20 11:27:41,902 - INFO - Output for the input 2 is:
+2024-11-20 11:27:41,902 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:27:43,906 - INFO - Entered input: Hyderabad
+2024-11-20 11:27:43,906 - INFO - Output for the input Hyderabad is:
+2024-11-20 11:27:43,907 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:45,910 - INFO - Entered input: 3
+2024-11-20 11:27:45,910 - INFO - Output for the input 3 is:
+2024-11-20 11:27:45,911 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Srikakulam
+Destination: Hyderabad
+Date: 2024-11-20 11:27:35.925521
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket48.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:27:47,914 - INFO - Entered input: 6
+2024-11-20 11:27:47,914 - INFO - Output for the input 6 is:
+2024-11-20 11:27:47,915 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:49,918 - INFO - Entered input: 1
+2024-11-20 11:27:49,919 - INFO - Output for the input 1 is:
+2024-11-20 11:27:49,919 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:27:51,922 - INFO - Entered input: 2024-12-06
+2024-11-20 11:27:51,923 - INFO - Output for the input 2024-12-06 is:
+2024-11-20 11:27:51,923 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:53,926 - INFO - Entered input: 2
+2024-11-20 11:27:53,926 - INFO - Output for the input 2 is:
+2024-11-20 11:27:53,927 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:27:55,930 - INFO - Entered input: Jyothsna
+2024-11-20 11:27:55,931 - INFO - Output for the input Jyothsna is:
+2024-11-20 11:27:55,931 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:57,934 - INFO - Entered input: 3
+2024-11-20 11:27:57,935 - INFO - Output for the input 3 is:
+2024-11-20 11:27:57,935 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Srikakulam
+Destination: Hyderabad
+Date: 2024-12-06 00:00:00
+Name: Jyothsna
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket49.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:27:59,939 - INFO - Entered input: 6
+2024-11-20 11:27:59,939 - INFO - Output for the input 6 is:
+2024-11-20 11:27:59,940 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:01,943 - INFO - Entered input: 1
+2024-11-20 11:28:01,944 - INFO - Output for the input 1 is:
+2024-11-20 11:28:01,944 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:28:03,948 - INFO - Entered input: 50
+2024-11-20 11:28:03,948 - INFO - Output for the input 50 is:
+2024-11-20 11:28:03,949 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:05,952 - INFO - Entered input: 2
+2024-11-20 11:28:05,952 - INFO - Output for the input 2 is:
+2024-11-20 11:28:05,953 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:28:07,956 - INFO - Entered input: 7780783563
+2024-11-20 11:28:07,957 - INFO - Output for the input 7780783563 is:
+2024-11-20 11:28:07,957 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:09,960 - INFO - Entered input: 3
+2024-11-20 11:28:09,961 - INFO - Output for the input 3 is:
+2024-11-20 11:28:09,961 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Srikakulam
+Destination: Hyderabad
+Date: 2024-12-06 00:00:00
+Name: Jyothsna
+Age: 50
+Phone No: 7780783563
+
+Ticket details saved as ticket50.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:11,964 - INFO - Entered input: 4
+2024-11-20 11:28:11,965 - INFO - Output for the input 4 is:
+2024-11-20 11:28:11,965 - INFO - 
+2024-11-20 11:28:13,968 - INFO - Entered input: TB005
+2024-11-20 11:28:13,969 - INFO - Output for the input TB005 is:
+2024-11-20 11:28:13,969 - INFO - Details saved in TB005.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:15,972 - INFO - Entered input: 7
+2024-11-20 11:28:15,973 - INFO - Output for the input 7 is:
+2024-11-20 11:28:15,973 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:28:15,981 - INFO - Starting test with test_id : TB006
+2024-11-20 11:28:15,984 - INFO - Test Data: {'Source': 'Vishakapatman', 'Destination': 'Yanam', 'Date': '2024-12-07', 'Name': 'Varalaxmi', 'Age': 35, 'Phone_Number': 9502700963}
+2024-11-20 11:28:17,994 - INFO - Entered input: 1
+2024-11-20 11:28:17,995 - INFO - Output for the input 1 is:
+2024-11-20 11:28:17,996 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:28:19,999 - INFO - Entered input: Vishakapatman
+2024-11-20 11:28:20,000 - INFO - Output for the input Vishakapatman is:
+2024-11-20 11:28:20,000 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:28:22,003 - INFO - Entered input: 2
+2024-11-20 11:28:22,004 - INFO - Output for the input 2 is:
+2024-11-20 11:28:22,004 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:28:24,008 - INFO - Entered input: Yanam
+2024-11-20 11:28:24,008 - INFO - Output for the input Yanam is:
+2024-11-20 11:28:24,009 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:28:26,012 - INFO - Entered input: 3
+2024-11-20 11:28:26,013 - INFO - Output for the input 3 is:
+2024-11-20 11:28:26,013 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Vishakapatman
+Destination: Yanam
+Date: 2024-11-20 11:28:16.028199
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket51.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:28:28,016 - INFO - Entered input: 6
+2024-11-20 11:28:28,017 - INFO - Output for the input 6 is:
+2024-11-20 11:28:28,018 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:28:30,020 - INFO - Entered input: 1
+2024-11-20 11:28:30,021 - INFO - Output for the input 1 is:
+2024-11-20 11:28:30,021 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:28:32,024 - INFO - Entered input: 2024-12-07
+2024-11-20 11:28:32,025 - INFO - Output for the input 2024-12-07 is:
+2024-11-20 11:28:32,025 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:28:34,028 - INFO - Entered input: 2
+2024-11-20 11:28:34,029 - INFO - Output for the input 2 is:
+2024-11-20 11:28:34,029 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:28:36,032 - INFO - Entered input: Varalaxmi
+2024-11-20 11:28:36,032 - INFO - Output for the input Varalaxmi is:
+2024-11-20 11:28:36,033 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:28:38,036 - INFO - Entered input: 3
+2024-11-20 11:28:38,036 - INFO - Output for the input 3 is:
+2024-11-20 11:28:38,037 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Vishakapatman
+Destination: Yanam
+Date: 2024-12-07 00:00:00
+Name: Varalaxmi
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket52.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:28:40,039 - INFO - Entered input: 6
+2024-11-20 11:28:40,040 - INFO - Output for the input 6 is:
+2024-11-20 11:28:40,040 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:42,044 - INFO - Entered input: 1
+2024-11-20 11:28:42,044 - INFO - Output for the input 1 is:
+2024-11-20 11:28:42,045 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:28:44,048 - INFO - Entered input: 35
+2024-11-20 11:28:44,049 - INFO - Output for the input 35 is:
+2024-11-20 11:28:44,049 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:46,053 - INFO - Entered input: 2
+2024-11-20 11:28:46,053 - INFO - Output for the input 2 is:
+2024-11-20 11:28:46,054 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:28:48,056 - INFO - Entered input: 9502700963
+2024-11-20 11:28:48,057 - INFO - Output for the input 9502700963 is:
+2024-11-20 11:28:48,057 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:50,060 - INFO - Entered input: 3
+2024-11-20 11:28:50,061 - INFO - Output for the input 3 is:
+2024-11-20 11:28:50,061 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Vishakapatman
+Destination: Yanam
+Date: 2024-12-07 00:00:00
+Name: Varalaxmi
+Age: 35
+Phone No: 9502700963
+
+Ticket details saved as ticket53.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:52,064 - INFO - Entered input: 4
+2024-11-20 11:28:52,065 - INFO - Output for the input 4 is:
+2024-11-20 11:28:52,065 - INFO - 
+2024-11-20 11:28:54,068 - INFO - Entered input: TB006
+2024-11-20 11:28:54,069 - INFO - Output for the input TB006 is:
+2024-11-20 11:28:54,069 - INFO - Details saved in TB006.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:28:56,072 - INFO - Entered input: 7
+2024-11-20 11:28:56,073 - INFO - Output for the input 7 is:
+2024-11-20 11:28:56,074 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:28:56,082 - INFO - Starting test with test_id : TB007
+2024-11-20 11:28:56,085 - INFO - Test Data: {'Source': '', 'Destination': 'Rajamahendravaram', 'Date': '2024-12-08', 'Name': 'Anudeep', 'Age': 40, 'Phone_Number': 9794471619}
+2024-11-20 11:28:58,096 - INFO - Entered input: 1
+2024-11-20 11:28:58,097 - INFO - Output for the input 1 is:
+2024-11-20 11:28:58,097 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:29:00,101 - INFO - Entered input: 
+2024-11-20 11:29:00,101 - INFO - Output for the input  is:
+2024-11-20 11:29:00,102 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:02,104 - INFO - Entered input: 2
+2024-11-20 11:29:02,104 - INFO - Output for the input 2 is:
+2024-11-20 11:29:02,105 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:29:04,108 - INFO - Entered input: Rajamahendravaram
+2024-11-20 11:29:04,108 - INFO - Output for the input Rajamahendravaram is:
+2024-11-20 11:29:04,109 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:06,112 - INFO - Entered input: 3
+2024-11-20 11:29:06,112 - INFO - Output for the input 3 is:
+2024-11-20 11:29:06,113 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: default-Hyderabad
+Destination: Rajamahendravaram
+Date: 2024-11-20 11:28:56.129334
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket54.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:08,116 - INFO - Entered input: 6
+2024-11-20 11:29:08,116 - INFO - Output for the input 6 is:
+2024-11-20 11:29:08,117 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:10,120 - INFO - Entered input: 1
+2024-11-20 11:29:10,120 - INFO - Output for the input 1 is:
+2024-11-20 11:29:10,120 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:29:12,123 - INFO - Entered input: 2024-12-08
+2024-11-20 11:29:12,124 - INFO - Output for the input 2024-12-08 is:
+2024-11-20 11:29:12,124 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:14,127 - INFO - Entered input: 2
+2024-11-20 11:29:14,128 - INFO - Output for the input 2 is:
+2024-11-20 11:29:14,128 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:29:16,131 - INFO - Entered input: Anudeep
+2024-11-20 11:29:16,132 - INFO - Output for the input Anudeep is:
+2024-11-20 11:29:16,132 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:18,135 - INFO - Entered input: 3
+2024-11-20 11:29:18,136 - INFO - Output for the input 3 is:
+2024-11-20 11:29:18,136 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: default-Hyderabad
+Destination: Rajamahendravaram
+Date: 2024-12-08 00:00:00
+Name: Anudeep
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket55.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:20,139 - INFO - Entered input: 6
+2024-11-20 11:29:20,140 - INFO - Output for the input 6 is:
+2024-11-20 11:29:20,140 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:29:22,143 - INFO - Entered input: 1
+2024-11-20 11:29:22,144 - INFO - Output for the input 1 is:
+2024-11-20 11:29:22,144 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:29:24,147 - INFO - Entered input: 40
+2024-11-20 11:29:24,148 - INFO - Output for the input 40 is:
+2024-11-20 11:29:24,148 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:29:26,151 - INFO - Entered input: 2
+2024-11-20 11:29:26,152 - INFO - Output for the input 2 is:
+2024-11-20 11:29:26,152 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:29:28,155 - INFO - Entered input: 9794471619
+2024-11-20 11:29:28,156 - INFO - Output for the input 9794471619 is:
+2024-11-20 11:29:28,156 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:29:30,159 - INFO - Entered input: 3
+2024-11-20 11:29:30,160 - INFO - Output for the input 3 is:
+2024-11-20 11:29:30,161 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: default-Hyderabad
+Destination: Rajamahendravaram
+Date: 2024-12-08 00:00:00
+Name: Anudeep
+Age: 40
+Phone No: 9794471619
+
+Ticket details saved as ticket56.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:29:32,164 - INFO - Entered input: 4
+2024-11-20 11:29:32,165 - INFO - Output for the input 4 is:
+2024-11-20 11:29:32,165 - INFO - 
+2024-11-20 11:29:34,168 - INFO - Entered input: TB007
+2024-11-20 11:29:34,169 - INFO - Output for the input TB007 is:
+2024-11-20 11:29:34,170 - INFO - Details saved in TB007.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:29:36,172 - INFO - Entered input: 7
+2024-11-20 11:29:36,173 - INFO - Output for the input 7 is:
+2024-11-20 11:29:36,173 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:29:36,278 - INFO - Starting test with test_id : TB008
+2024-11-20 11:29:36,280 - INFO - Test Data: {'Source': 'Yanam', 'Destination': 'Amalapuram', 'Date': '2024-12-09', 'Name': 'Veenanjali', 'Age': 23, 'Phone_Number': 8328670985}
+2024-11-20 11:29:38,289 - INFO - Entered input: 1
+2024-11-20 11:29:38,290 - INFO - Output for the input 1 is:
+2024-11-20 11:29:38,290 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:29:40,293 - INFO - Entered input: Yanam
+2024-11-20 11:29:40,294 - INFO - Output for the input Yanam is:
+2024-11-20 11:29:40,294 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:42,297 - INFO - Entered input: 2
+2024-11-20 11:29:42,297 - INFO - Output for the input 2 is:
+2024-11-20 11:29:42,298 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:29:44,300 - INFO - Entered input: Amalapuram
+2024-11-20 11:29:44,301 - INFO - Output for the input Amalapuram is:
+2024-11-20 11:29:44,301 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:46,304 - INFO - Entered input: 3
+2024-11-20 11:29:46,305 - INFO - Output for the input 3 is:
+2024-11-20 11:29:46,305 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Yanam
+Destination: Amalapuram
+Date: 2024-11-20 11:29:36.317952
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket57.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:29:48,309 - INFO - Entered input: 6
+2024-11-20 11:29:48,310 - INFO - Output for the input 6 is:
+2024-11-20 11:29:48,311 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:50,314 - INFO - Entered input: 1
+2024-11-20 11:29:50,315 - INFO - Output for the input 1 is:
+2024-11-20 11:29:50,315 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:29:52,319 - INFO - Entered input: 2024-12-09
+2024-11-20 11:29:52,320 - INFO - Output for the input 2024-12-09 is:
+2024-11-20 11:29:52,320 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:54,323 - INFO - Entered input: 2
+2024-11-20 11:29:54,324 - INFO - Output for the input 2 is:
+2024-11-20 11:29:54,324 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:29:56,327 - INFO - Entered input: Veenanjali
+2024-11-20 11:29:56,328 - INFO - Output for the input Veenanjali is:
+2024-11-20 11:29:56,329 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:29:58,332 - INFO - Entered input: 3
+2024-11-20 11:29:58,333 - INFO - Output for the input 3 is:
+2024-11-20 11:29:58,333 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Yanam
+Destination: Amalapuram
+Date: 2024-12-09 00:00:00
+Name: Veenanjali
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket58.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:30:00,336 - INFO - Entered input: 6
+2024-11-20 11:30:00,337 - INFO - Output for the input 6 is:
+2024-11-20 11:30:00,338 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:02,341 - INFO - Entered input: 1
+2024-11-20 11:30:02,342 - INFO - Output for the input 1 is:
+2024-11-20 11:30:02,342 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:30:04,346 - INFO - Entered input: 23
+2024-11-20 11:30:04,347 - INFO - Output for the input 23 is:
+2024-11-20 11:30:04,347 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:06,349 - INFO - Entered input: 2
+2024-11-20 11:30:06,349 - INFO - Output for the input 2 is:
+2024-11-20 11:30:06,350 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:30:08,353 - INFO - Entered input: 8328670985
+2024-11-20 11:30:08,353 - INFO - Output for the input 8328670985 is:
+2024-11-20 11:30:08,354 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:10,356 - INFO - Entered input: 3
+2024-11-20 11:30:10,356 - INFO - Output for the input 3 is:
+2024-11-20 11:30:10,357 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Yanam
+Destination: Amalapuram
+Date: 2024-12-09 00:00:00
+Name: Veenanjali
+Age: 23
+Phone No: 8328670985
+
+Ticket details saved as ticket59.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:12,360 - INFO - Entered input: 4
+2024-11-20 11:30:12,361 - INFO - Output for the input 4 is:
+2024-11-20 11:30:12,361 - INFO - 
+2024-11-20 11:30:14,364 - INFO - Entered input: TB008
+2024-11-20 11:30:14,364 - INFO - Output for the input TB008 is:
+2024-11-20 11:30:14,365 - INFO - Details saved in TB008.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:16,368 - INFO - Entered input: 7
+2024-11-20 11:30:16,369 - INFO - Output for the input 7 is:
+2024-11-20 11:30:16,369 - INFO - Exiting the application...
+Enter a filename to save the details: 
+2024-11-20 11:30:16,377 - INFO - Starting test with test_id : TB009
+2024-11-20 11:30:16,380 - INFO - Test Data: {'Source': 'Rajamahendravaram', 'Destination': 'Srikakulam', 'Date': '2024-12-10', 'Name': '', 'Age': 24, 'Phone_Number': 8859643211}
+2024-11-20 11:30:18,390 - INFO - Entered input: 1
+2024-11-20 11:30:18,391 - INFO - Output for the input 1 is:
+2024-11-20 11:30:18,391 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:30:20,394 - INFO - Entered input: Rajamahendravaram
+2024-11-20 11:30:20,395 - INFO - Output for the input Rajamahendravaram is:
+2024-11-20 11:30:20,395 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:30:22,398 - INFO - Entered input: 2
+2024-11-20 11:30:22,398 - INFO - Output for the input 2 is:
+2024-11-20 11:30:22,399 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:30:24,402 - INFO - Entered input: Srikakulam
+2024-11-20 11:30:24,402 - INFO - Output for the input Srikakulam is:
+2024-11-20 11:30:24,403 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:30:26,406 - INFO - Entered input: 3
+2024-11-20 11:30:26,407 - INFO - Output for the input 3 is:
+2024-11-20 11:30:26,408 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Rajamahendravaram
+Destination: Srikakulam
+Date: 2024-11-20 11:30:16.422401
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket60.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:30:28,411 - INFO - Entered input: 6
+2024-11-20 11:30:28,413 - INFO - Output for the input 6 is:
+2024-11-20 11:30:28,414 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:30:30,417 - INFO - Entered input: 1
+2024-11-20 11:30:30,418 - INFO - Output for the input 1 is:
+2024-11-20 11:30:30,419 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:30:32,422 - INFO - Entered input: 2024-12-10
+2024-11-20 11:30:32,423 - INFO - Output for the input 2024-12-10 is:
+2024-11-20 11:30:32,423 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:30:34,427 - INFO - Entered input: 2
+2024-11-20 11:30:34,428 - INFO - Output for the input 2 is:
+2024-11-20 11:30:34,428 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:30:36,431 - INFO - Entered input: 
+2024-11-20 11:30:36,432 - INFO - Output for the input  is:
+2024-11-20 11:30:36,432 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:30:38,435 - INFO - Entered input: 3
+2024-11-20 11:30:38,436 - INFO - Output for the input 3 is:
+2024-11-20 11:30:38,436 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Rajamahendravaram
+Destination: Srikakulam
+Date: 2024-12-10 00:00:00
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket61.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:30:40,440 - INFO - Entered input: 6
+2024-11-20 11:30:40,440 - INFO - Output for the input 6 is:
+2024-11-20 11:30:40,441 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:42,445 - INFO - Entered input: 1
+2024-11-20 11:30:42,445 - INFO - Output for the input 1 is:
+2024-11-20 11:30:42,446 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:30:44,449 - INFO - Entered input: 24
+2024-11-20 11:30:44,450 - INFO - Output for the input 24 is:
+2024-11-20 11:30:44,451 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:46,454 - INFO - Entered input: 2
+2024-11-20 11:30:46,455 - INFO - Output for the input 2 is:
+2024-11-20 11:30:46,455 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:30:48,459 - INFO - Entered input: 8859643211
+2024-11-20 11:30:48,461 - INFO - Output for the input 8859643211 is:
+2024-11-20 11:30:48,461 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:50,465 - INFO - Entered input: 3
+2024-11-20 11:30:50,466 - INFO - Output for the input 3 is:
+2024-11-20 11:30:50,466 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Rajamahendravaram
+Destination: Srikakulam
+Date: 2024-12-10 00:00:00
+Name: default-ram
+Age: 24
+Phone No: 8859643211
+
+Ticket details saved as ticket62.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:52,469 - INFO - Entered input: 4
+2024-11-20 11:30:52,470 - INFO - Output for the input 4 is:
+2024-11-20 11:30:52,471 - INFO - 
+2024-11-20 11:30:54,474 - INFO - Entered input: TB009
+2024-11-20 11:30:54,475 - INFO - Output for the input TB009 is:
+2024-11-20 11:30:54,475 - INFO - Enter a filename to save the details: Details saved in TB009.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:30:56,477 - INFO - Entered input: 7
+2024-11-20 11:30:56,478 - INFO - Output for the input 7 is:
+2024-11-20 11:30:56,479 - INFO - Exiting the application...
+
+2024-11-20 11:30:56,496 - INFO - Starting test with test_id : TB010
+2024-11-20 11:30:56,498 - INFO - Test Data: {'Source': '', 'Destination': '', 'Date': '', 'Name': '', 'Age': '', 'Phone_Number': ''}
+2024-11-20 11:30:58,507 - INFO - Entered input: 1
+2024-11-20 11:30:58,508 - INFO - Output for the input 1 is:
+2024-11-20 11:30:58,509 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:31:00,512 - INFO - Entered input: 
+2024-11-20 11:31:00,513 - INFO - Output for the input  is:
+2024-11-20 11:31:00,513 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:02,516 - INFO - Entered input: 2
+2024-11-20 11:31:02,517 - INFO - Output for the input 2 is:
+2024-11-20 11:31:02,517 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:31:04,520 - INFO - Entered input: 
+2024-11-20 11:31:04,521 - INFO - Output for the input  is:
+2024-11-20 11:31:04,522 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:06,525 - INFO - Entered input: 3
+2024-11-20 11:31:06,525 - INFO - Output for the input 3 is:
+2024-11-20 11:31:06,526 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: default-Hyderabad
+Destination: default-Pithapuram
+Date: 2024-11-20 11:30:56.536944
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket63.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:08,529 - INFO - Entered input: 6
+2024-11-20 11:31:08,530 - INFO - Output for the input 6 is:
+2024-11-20 11:31:08,530 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:10,534 - INFO - Entered input: 1
+2024-11-20 11:31:10,535 - INFO - Output for the input 1 is:
+2024-11-20 11:31:10,535 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:31:12,539 - INFO - Entered input: 
+2024-11-20 11:31:12,540 - INFO - Output for the input  is:
+2024-11-20 11:31:12,540 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:14,544 - INFO - Entered input: 2
+2024-11-20 11:31:14,545 - INFO - Output for the input 2 is:
+2024-11-20 11:31:14,545 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:31:16,549 - INFO - Entered input: 
+2024-11-20 11:31:16,550 - INFO - Output for the input  is:
+2024-11-20 11:31:16,550 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:18,554 - INFO - Entered input: 3
+2024-11-20 11:31:18,555 - INFO - Output for the input 3 is:
+2024-11-20 11:31:18,555 - INFO - Details are already saved. No need to save again.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:20,559 - INFO - Entered input: 6
+2024-11-20 11:31:20,560 - INFO - Output for the input 6 is:
+2024-11-20 11:31:20,560 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:22,564 - INFO - Entered input: 1
+2024-11-20 11:31:22,565 - INFO - Output for the input 1 is:
+2024-11-20 11:31:22,565 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:31:24,569 - INFO - Entered input: 
+2024-11-20 11:31:24,570 - INFO - Output for the input  is:
+2024-11-20 11:31:24,570 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:26,574 - INFO - Entered input: 2
+2024-11-20 11:31:26,575 - INFO - Output for the input 2 is:
+2024-11-20 11:31:26,575 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:31:28,579 - INFO - Entered input: 
+2024-11-20 11:31:28,579 - INFO - Output for the input  is:
+2024-11-20 11:31:28,580 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:30,583 - INFO - Entered input: 3
+2024-11-20 11:31:30,584 - INFO - Output for the input 3 is:
+2024-11-20 11:31:30,585 - INFO - Details are already saved. No need to save again.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:32,589 - INFO - Entered input: 4
+2024-11-20 11:31:32,589 - INFO - Output for the input 4 is:
+2024-11-20 11:31:32,590 - INFO - 
+2024-11-20 11:31:34,593 - INFO - Entered input: TB010
+2024-11-20 11:31:34,595 - INFO - Output for the input TB010 is:
+2024-11-20 11:31:34,595 - INFO - Details saved in TB010.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:36,598 - INFO - Entered input: 7
+2024-11-20 11:31:36,599 - INFO - Output for the input 7 is:
+2024-11-20 11:31:36,600 - INFO - Exiting the application...
+Enter a filename to save the details: 

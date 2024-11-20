@@ -1,0 +1,217 @@
+2024-11-20 11:30:56,496 - INFO - Starting test with test_id : TB010
+2024-11-20 11:30:56,498 - INFO - Test Data: {'Source': '', 'Destination': '', 'Date': '', 'Name': '', 'Age': '', 'Phone_Number': ''}
+2024-11-20 11:30:58,507 - INFO - Entered input: 1
+2024-11-20 11:30:58,508 - INFO - Output for the input 1 is:
+2024-11-20 11:30:58,509 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 11:31:00,512 - INFO - Entered input: 
+2024-11-20 11:31:00,513 - INFO - Output for the input  is:
+2024-11-20 11:31:00,513 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:02,516 - INFO - Entered input: 2
+2024-11-20 11:31:02,517 - INFO - Output for the input 2 is:
+2024-11-20 11:31:02,517 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 11:31:04,520 - INFO - Entered input: 
+2024-11-20 11:31:04,521 - INFO - Output for the input  is:
+2024-11-20 11:31:04,522 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:06,525 - INFO - Entered input: 3
+2024-11-20 11:31:06,525 - INFO - Output for the input 3 is:
+2024-11-20 11:31:06,526 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: default-Hyderabad
+Destination: default-Pithapuram
+Date: 2024-11-20 11:30:56.536944
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket63.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 11:31:08,529 - INFO - Entered input: 6
+2024-11-20 11:31:08,530 - INFO - Output for the input 6 is:
+2024-11-20 11:31:08,530 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:10,534 - INFO - Entered input: 1
+2024-11-20 11:31:10,535 - INFO - Output for the input 1 is:
+2024-11-20 11:31:10,535 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 11:31:12,539 - INFO - Entered input: 
+2024-11-20 11:31:12,540 - INFO - Output for the input  is:
+2024-11-20 11:31:12,540 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:14,544 - INFO - Entered input: 2
+2024-11-20 11:31:14,545 - INFO - Output for the input 2 is:
+2024-11-20 11:31:14,545 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 11:31:16,549 - INFO - Entered input: 
+2024-11-20 11:31:16,550 - INFO - Output for the input  is:
+2024-11-20 11:31:16,550 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:18,554 - INFO - Entered input: 3
+2024-11-20 11:31:18,555 - INFO - Output for the input 3 is:
+2024-11-20 11:31:18,555 - INFO - Details are already saved. No need to save again.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 11:31:20,559 - INFO - Entered input: 6
+2024-11-20 11:31:20,560 - INFO - Output for the input 6 is:
+2024-11-20 11:31:20,560 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:22,564 - INFO - Entered input: 1
+2024-11-20 11:31:22,565 - INFO - Output for the input 1 is:
+2024-11-20 11:31:22,565 - INFO - Enter your age (default: 20): 
+
+2024-11-20 11:31:24,569 - INFO - Entered input: 
+2024-11-20 11:31:24,570 - INFO - Output for the input  is:
+2024-11-20 11:31:24,570 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:26,574 - INFO - Entered input: 2
+2024-11-20 11:31:26,575 - INFO - Output for the input 2 is:
+2024-11-20 11:31:26,575 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 11:31:28,579 - INFO - Entered input: 
+2024-11-20 11:31:28,579 - INFO - Output for the input  is:
+2024-11-20 11:31:28,580 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:30,583 - INFO - Entered input: 3
+2024-11-20 11:31:30,584 - INFO - Output for the input 3 is:
+2024-11-20 11:31:30,585 - INFO - Details are already saved. No need to save again.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:32,589 - INFO - Entered input: 4
+2024-11-20 11:31:32,589 - INFO - Output for the input 4 is:
+2024-11-20 11:31:32,590 - INFO - 
+2024-11-20 11:31:34,593 - INFO - Entered input: TB010
+2024-11-20 11:31:34,595 - INFO - Output for the input TB010 is:
+2024-11-20 11:31:34,595 - INFO - Details saved in TB010.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 11:31:36,598 - INFO - Entered input: 7
+2024-11-20 11:31:36,599 - INFO - Output for the input 7 is:
+2024-11-20 11:31:36,600 - INFO - Exiting the application...
+Enter a filename to save the details: 
