@@ -1,0 +1,235 @@
+2024-11-20 12:46:12,686 - INFO - Test IDs: ['TB001', 'TB002', 'TB003', 'TB004', 'TB005', 'TB006', 'TB007', 'TB008', 'TB009', 'TB010']
+2024-11-20 12:46:12,689 - INFO - Test Data: {'Source': 'Hyderabad', 'Destination': 'Kakinada', 'Date': '2024-12-02', 'Name': 'Abhishek', 'Age': 20, 'Phone_Number': 7855496341}
+2024-11-20 12:46:14,700 - INFO - Entered input: 1
+2024-11-20 12:46:14,700 - INFO - Output for the input 1 is:
+2024-11-20 12:46:14,700 - INFO - **** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+Enter source (default: default-Hyderabad): 
+
+2024-11-20 12:46:16,703 - INFO - Entered input: Hyderabad
+2024-11-20 12:46:16,703 - INFO - Output for the input Hyderabad is:
+2024-11-20 12:46:16,703 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 12:46:18,705 - INFO - Entered input: 2
+2024-11-20 12:46:18,706 - INFO - Output for the input 2 is:
+2024-11-20 12:46:18,706 - INFO - Enter destination (default: default-Pithapuram): 
+
+2024-11-20 12:46:20,709 - INFO - Entered input: Kakinada
+2024-11-20 12:46:20,710 - INFO - Output for the input Kakinada is:
+2024-11-20 12:46:20,710 - INFO - 
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 12:46:22,714 - INFO - Entered input: 3
+2024-11-20 12:46:22,714 - INFO - Output for the input 3 is:
+2024-11-20 12:46:22,714 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-11-20 12:46:12.734407
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket28.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+
+2024-11-20 12:46:24,717 - INFO - Entered input: 6
+2024-11-20 12:46:24,717 - INFO - Output for the input 6 is:
+2024-11-20 12:46:24,718 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 12:46:26,721 - INFO - Entered input: 1
+2024-11-20 12:46:26,721 - INFO - Output for the input 1 is:
+2024-11-20 12:46:26,722 - INFO - Enter travel date (YYYY-MM-DD, default: 2024-11-20): 
+
+2024-11-20 12:46:28,724 - INFO - Entered input: 2024-12-02
+2024-11-20 12:46:28,724 - INFO - Output for the input 2024-12-02 is:
+2024-11-20 12:46:28,724 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 12:46:30,727 - INFO - Entered input: 2
+2024-11-20 12:46:30,728 - INFO - Output for the input 2 is:
+2024-11-20 12:46:30,728 - INFO - Enter name (default: default-ram): 
+
+2024-11-20 12:46:32,731 - INFO - Entered input: Abhishek
+2024-11-20 12:46:32,731 - INFO - Output for the input Abhishek is:
+2024-11-20 12:46:32,731 - INFO - 
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 12:46:34,732 - INFO - Entered input: 3
+2024-11-20 12:46:34,733 - INFO - Output for the input 3 is:
+2024-11-20 12:46:34,733 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-12-02 00:00:00
+Name: Abhishek
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket29.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+
+2024-11-20 12:46:36,736 - INFO - Entered input: 6
+2024-11-20 12:46:36,736 - INFO - Output for the input 6 is:
+2024-11-20 12:46:36,736 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 12:46:38,739 - INFO - Entered input: 1
+2024-11-20 12:46:38,740 - INFO - Output for the input 1 is:
+2024-11-20 12:46:38,740 - INFO - Enter your age (default: 20): 
+
+2024-11-20 12:46:40,743 - INFO - Entered input: 20
+2024-11-20 12:46:40,743 - INFO - Output for the input 20 is:
+2024-11-20 12:46:40,743 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 12:46:42,746 - INFO - Entered input: 2
+2024-11-20 12:46:42,746 - INFO - Output for the input 2 is:
+2024-11-20 12:46:42,747 - INFO - Enter your phone number (default: default-1234567890): 
+
+2024-11-20 12:46:44,749 - INFO - Entered input: 7855496341
+2024-11-20 12:46:44,750 - INFO - Output for the input 7855496341 is:
+2024-11-20 12:46:44,750 - INFO - 
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 12:46:46,753 - INFO - Entered input: 3
+2024-11-20 12:46:46,754 - INFO - Output for the input 3 is:
+2024-11-20 12:46:46,754 - INFO - HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-12-02 00:00:00
+Name: Abhishek
+Age: 20
+Phone No: 7855496341
+
+Ticket details saved as ticket30.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 12:46:48,757 - INFO - Entered input: 4
+2024-11-20 12:46:48,757 - INFO - Output for the input 4 is:
+2024-11-20 12:46:48,758 - INFO - 
+2024-11-20 12:46:50,760 - INFO - Entered input: TB001
+2024-11-20 12:46:50,760 - INFO - Output for the input TB001 is:
+2024-11-20 12:46:50,761 - INFO - Error: A ticket with the name 'TB001.txt' already exists.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+
+2024-11-20 12:46:52,763 - INFO - Entered input: 7
+2024-11-20 12:46:52,764 - INFO - Output for the input 7 is:
+2024-11-20 12:46:52,764 - INFO - Exiting the application...
+Enter a filename to save the details: 

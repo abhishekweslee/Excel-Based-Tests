@@ -1,0 +1,6 @@
+Source: Pithapuram
+Destination: Gudivada
+Date: 2024-12-05 00:00:00
+Name: Lochani
+Age: 20
+Phone Number: default-1234567890
