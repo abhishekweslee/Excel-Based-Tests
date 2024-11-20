@@ -1,6 +1,0 @@
-Source: Hyderabad
-Destination: Kakinada
-Date: 2024-12-02 00:00:00
-Name: Abhishek
-Age: 20
-Phone Number: default-1234567890
