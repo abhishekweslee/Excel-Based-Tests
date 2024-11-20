@@ -19,7 +19,7 @@ test_ids = cli.get_test_ids()
 print(f"Test IDs: {test_ids}")
 
 @pytest.mark.parametrize("test_id", cli.get_test_ids())
-def test_case01(test_id):
+def test_case(test_id):
     log.info(f"Starting test with test_id : {test_id}")
 
     # Get data for the first test ID
