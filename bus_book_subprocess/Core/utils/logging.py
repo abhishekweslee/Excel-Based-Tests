@@ -22,9 +22,9 @@ def get_logger():
     logger.addHandler(file_handler)
 
     # Optional: Add console handler to print logs to the console
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.DEBUG)
-    console_handler.setFormatter(formatter)
-    logger.addHandler(console_handler)
+    # console_handler = logging.StreamHandler()
+    # console_handler.setLevel(logging.DEBUG)
+    # console_handler.setFormatter(formatter)
+    # logger.addHandler(console_handler)
 
     return logger
