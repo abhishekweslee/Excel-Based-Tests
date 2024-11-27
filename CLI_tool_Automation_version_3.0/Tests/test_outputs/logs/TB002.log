@@ -1,0 +1,213 @@
+2024-11-27 12:25:01,458 - INFO - 
+**** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+1
+2024-11-27 12:25:01,459 - INFO - 
+Enter source (default: default-Hyderabad): 
+Kakinada
+2024-11-27 12:25:01,460 - INFO - 
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+2
+2024-11-27 12:25:01,461 - INFO - 
+Enter destination (default: default-Pithapuram): 
+Pithapuram
+2024-11-27 12:25:01,461 - INFO - 
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+3
+2024-11-27 12:25:01,463 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Kakinada
+Destination: Pithapuram
+Date: 2024-11-27 12:25:01.457290
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket189.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+6
+2024-11-27 12:25:01,464 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+1
+2024-11-27 12:25:01,464 - INFO - 
+Enter travel date (YYYY-MM-DD, default: 2024-11-27): 
+2024-12-03
+2024-11-27 12:25:01,475 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+2
+2024-11-27 12:25:01,477 - INFO - 
+Enter name (default: default-ram): 
+John
+2024-11-27 12:25:01,477 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+3
+2024-11-27 12:25:01,479 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Kakinada
+Destination: Pithapuram
+Date: 2024-12-03 00:00:00
+Name: John
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket190.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+6
+2024-11-27 12:25:01,480 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+1
+2024-11-27 12:25:01,482 - INFO - 
+Enter your age (default: 20): 
+21
+2024-11-27 12:25:01,484 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+2
+2024-11-27 12:25:01,485 - INFO - 
+Enter your phone number (default: default-1234567890): 
+9856743588
+2024-11-27 12:25:01,489 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+3
+2024-11-27 12:25:01,491 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Kakinada
+Destination: Pithapuram
+Date: 2024-12-03 00:00:00
+Name: John
+Age: 21
+Phone No: 9856743588
+
+Ticket details saved as ticket191.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+4
+2024-11-27 12:25:01,493 - INFO - 
+Enter a filename to save the details: 
+TB002
+2024-11-27 12:25:01,494 - INFO - 
+Details saved in TB002.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+7

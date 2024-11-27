@@ -1,0 +1,200 @@
+2024-11-27 11:44:13,397 - INFO - Retrieved Test IDs: ['TB001', 'TB002', 'TB003', 'TB004', 'TB005', 'TB006', 'TB007', 'TB008', 'TB009', 'TB010']
+2024-11-27 11:44:13,400 - INFO - Test Data: {'Source': 'Hyderabad', 'Destination': 'Kakinada', 'Date': '2024-12-02', 'Name': 'Abhishek', 'Age': 20, 'Phone_Number': 7855496341}
+2024-11-27 11:44:13,466 - INFO - 
+**** WELCOME TO BUS TICKET BOOKING ****
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+1
+2024-11-27 11:44:13,467 - INFO - 
+Enter source (default: default-Hyderabad): 
+Hyderabad
+2024-11-27 11:44:13,467 - INFO - 
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+2
+2024-11-27 11:44:13,468 - INFO - 
+Enter destination (default: default-Pithapuram): 
+Kakinada
+2024-11-27 11:44:13,469 - INFO - 
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+3
+2024-11-27 11:44:13,470 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-11-27 11:44:13.465603
+Name: default-ram
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket9.txt.
+
+--- Main Menu ---
+1. Enter source
+2. Enter destination
+3. Save entered source and destination details
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Submenu1
+7. Go to Submenu2
+8. Quit
+Select an option: 
+6
+2024-11-27 11:44:13,471 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+1
+2024-11-27 11:44:13,472 - INFO - 
+Enter travel date (YYYY-MM-DD, default: 2024-11-27): 
+2024-12-02
+2024-11-27 11:44:13,485 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+2
+2024-11-27 11:44:13,486 - INFO - 
+Enter name (default: default-ram): 
+Abhishek
+2024-11-27 11:44:13,487 - INFO - 
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+3
+2024-11-27 11:44:13,512 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-12-02 00:00:00
+Name: Abhishek
+Age: 20
+Phone No: default-1234567890
+
+Ticket details saved as ticket10.txt.
+
+--- Date and Name Entry ---
+1. Enter travel date
+2. Enter name
+3. Save entered date and name
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Go to Next menu
+7. Quit
+Select an option: 
+6
+2024-11-27 11:44:13,513 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+1
+2024-11-27 11:44:13,514 - INFO - 
+Enter your age (default: 20): 
+20
+2024-11-27 11:44:13,515 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+2
+2024-11-27 11:44:13,516 - INFO - 
+Enter your phone number (default: default-1234567890): 
+7855496341
+2024-11-27 11:44:13,517 - INFO - 
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+3
+2024-11-27 11:44:13,518 - INFO - 
+HERE IS BOOKED TICKET DETAILS...
+
+Source: Hyderabad
+Destination: Kakinada
+Date: 2024-12-02 00:00:00
+Name: Abhishek
+Age: 20
+Phone No: 7855496341
+
+Ticket details saved as ticket11.txt.
+
+--- Age and Phone Number Entry ---
+1. Enter age
+2. Enter phone no.
+3. Save entered age and phone no.
+4. Save entered details to a file (Save As)
+5. Back to Main Menu
+6. Back to Submenu1
+7. Quit
+select an option: 
+7
+2024-11-27 11:44:13,523 - ERROR - Error during output extraction or comparison: expected str, bytes or os.PathLike object, not dict

@@ -1,0 +1,49 @@
+{
+  "name": "CLI Tool Automation",
+  "version": "3.0",
+  "Start_Menu": "**** WELCOME TO BUS TICKET BOOKING ****",
+  "Main_Menu": {
+    "Title": "--- Main Menu ---",
+    "1": "Enter source",
+    "2": "Enter destination",
+    "3": "Save entered source and destination details",
+    "4": "Save entered details to a file (Save As)",
+    "5": "Back to Main Menu",
+    "6": "Go to Submenu1",
+    "7": "Go to Submenu2",
+    "8": "Quit",
+    "Select": "Select an option:"
+  },
+  "Sub_Menu_1": {
+    "Title": "--- Date and Name Entry ---",
+    "1": "Enter travel date",
+    "2": "Enter name",
+    "3": "Save entered date and name",
+    "4": "Save entered details to a file (Save As)",
+    "5": "Back to Main Menu",
+    "6": "Go to Next Menu",
+    "7": "Quit",
+    "Select": "Select an option:"
+  },
+  "Sub_Menu_2": {
+    "Title": "--- Age and Phone Number Entry ---",
+    "1": "Enter age",
+    "2": "Enter phone number",
+    "3": "Save entered age and phone number",
+    "4": "Save entered details to a file (Save As)",
+    "5": "Back to Main Menu",
+    "6": "Back to Submenu1",
+    "7": "Quit",
+    "Select": "select an option:"
+  },
+  "Ticket_Details": {
+    "Name": "Enter name (default: default-ram):",
+    "Source": "Enter source (default: default-Hyderabad):",
+    "Destination": "Enter destination (default: default-Pithapuram):",
+    "Date": "Enter travel date (YYYY-MM-DD, default:",
+    "Age": "Enter your age (default: 20):",
+    "Phone_No": "Enter your phone number (default: default-1234567890):",
+    "File_Name": "Enter a filename to save the details:"
+  },
+  "End": "Exiting the application..."
+}
